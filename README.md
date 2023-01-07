@@ -14,11 +14,7 @@ Resident Advisor is an online music magazine and community platform dedicated to
 Install Python 3.9+ and add Python to PATH
 
 Install requirements:
-httpx
-pandas
-xlsxwriter
-selectolax
-pydash
+httpx, pandas, xlsxwriter, selectolax , pydash
 
 
 ```
