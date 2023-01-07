@@ -1,6 +1,9 @@
 # ResidentAdvisorPromoterScrappingTool
 A Resident Advisor Scrapping Tool for Promoters
 
+This tool scrapes any city or regions' promoter page on resident advisor. Only works for promoter page. Anything starting with https://ra.co/promoters/[COUNTRYCODE]/[REGION/CITY] for example -> https://ra.co/promoters/UK/London.
+
+
 Resident Advisor is an online music magazine and community platform dedicated to showcasing electronic music, artists and events across the globe.
 
 ## Installation
