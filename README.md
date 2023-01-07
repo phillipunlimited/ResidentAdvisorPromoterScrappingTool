@@ -31,7 +31,7 @@ pip install httpx pandas xlsxwriter selectolax pydash
 ## Usage
 
 ```
-usage: python raco.py [-h] [-o OUTPUT] [-t THREADS] [--no-excel]
+usage: python ResidentAdvisorScraper.py [-h] [-o OUTPUT] [-t THREADS] [--no-excel]
 
 optional arguments:
   -h, --help            show this help message and exit
